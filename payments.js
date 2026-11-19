@@ -1,0 +1,1 @@
+console.log("V1 of payments realted code is released.")
